@@ -1,6 +1,6 @@
 # The Carpentries Workbench Template R Markdown Lesson
 
-Note: see https://carpentries.github.io/sandpaper-docs/introduction.html
+Note: see https://carpentries.github.io/sandpaper-docs/introduction.html  
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
 
 ## Note about lesson life cycle stage
