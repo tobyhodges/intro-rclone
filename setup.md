@@ -1,9 +1,11 @@
 ---
-title: Setup
+title: Installing RClone
 ---
 
 FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+the data sets the Learner needs to have installed.  
+
+See: [Rclone Downloads](https://rclone.org/downloads/)
 
 ## Data Sets
 
@@ -31,7 +33,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+[Windows 10/11 install](https://rclone.org/install/#windows)
 
 ::::::::::::::::::::::::
 
@@ -39,7 +41,7 @@ Use PuTTY
 
 ### MacOS
 
-Use Terminal.app
+[MacOS install](https://rclone.org/install/#macos)
 
 ::::::::::::::::::::::::
 
@@ -48,7 +50,7 @@ Use Terminal.app
 
 ### Linux
 
-Use Terminal
+[Linux install](https://rclone.org/install/#linux)
 
 ::::::::::::::::::::::::
 
