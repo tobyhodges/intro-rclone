@@ -1,29 +1,27 @@
 ---
-title: "Using RMarkdown"
+title: "Using Rclone"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- What is rclone and why do I need to use this?
+- What is 'command line'
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Be able to transfer data from the command line using rclone
+- Know where to get help and documentation
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Introduction: What is Rclone
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+Rclone is a command line program to manage files on cloud storage. After download and install, continue here to learn how to use it: Initial configuration, what the basic syntax looks like, describes the various subcommands, the various options, and more.
+
 
 What you need to know is that there are three sections required for a valid
 Carpentries lesson template:
