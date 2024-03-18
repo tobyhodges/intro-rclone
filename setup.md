@@ -33,7 +33,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-[Windows 10/11 install](https://rclone.org/install/#windows)
+[Windows 10/11 rclone install](https://rclone.org/install/#windows)
 
 ::::::::::::::::::::::::
 
@@ -41,7 +41,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### MacOS
 
-[MacOS install](https://rclone.org/install/#macos)
+[MacOS rclone install](https://rclone.org/install/#macos)
 
 ::::::::::::::::::::::::
 
@@ -50,7 +50,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Linux
 
-[Linux install](https://rclone.org/install/#linux)
+[Linux rclone install](https://rclone.org/install/#linux)
 
 ::::::::::::::::::::::::
 

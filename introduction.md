@@ -1,13 +1,14 @@
 ---
-title: "Using Rclone"
+title: "Introduction to Rclone"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What is rclone and why do I need to use this?
-- What is 'command line'
+- What is rclone?  
+- Why do I need to use this?  
+- What is 'command line' `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -18,10 +19,13 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction: What is Rclone
+## Introduction
 
-Rclone is a command line program to manage files on cloud storage. After download and install, continue here to learn how to use it: Initial configuration, what the basic syntax looks like, describes the various subcommands, the various options, and more.
-
+This is a lesson created via The Carpentries Workbench. It is written in
+[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
+[R Markdown][r-markdown] for dynamic files that can render code into output. 
+Please refer to the [Introduction to The Carpentries 
+Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
 
 What you need to know is that there are three sections required for a valid
 Carpentries lesson template:

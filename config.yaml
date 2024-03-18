@@ -46,8 +46,10 @@ contact: 'datascience@ucla.edu' # FIXME
 # Example -------------
 #
 # episodes:
-# - introduction.md
-# - first-steps.md
+# - introduction.Rmd
+# - getting-help.Rmd
+# - configure-rclone.Rmd
+# - creating-connections.Rmd
 #
 # learners:
 # - setup.md
@@ -60,17 +62,17 @@ contact: 'datascience@ucla.edu' # FIXME
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
