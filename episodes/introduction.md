@@ -26,9 +26,9 @@ Rclone is a command line program to manage files on cloud storage. After downloa
 
 ## Why Do You Want to Use Rclone
 
-- For large files and/or multiple files rclone is efficient and fast
-- reason 2
-- reason 3
+- For large files and/or multiple files rclone is efficient and fast  
+- reason 2 
+- reason 3 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -46,8 +46,10 @@ contact: 'datascience@ucla.edu' # FIXME
 # Example -------------
 #
 # episodes:
-# - introduction.Rmd
-# - Ggetting-help.md
+# - introduction.md 
+# - getting-help.md 
+# - configure-rclone.md  
+# - creating-connections.md
 #
 # learners:
 # - setup.md
