@@ -4,9 +4,10 @@ teaching: 10
 exercises: 2
 ---
 
-Configure Rcone
 
-rclone config
+## Where to Get Heop
+
+Rclone Help
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 

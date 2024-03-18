@@ -1,12 +1,11 @@
 ---
-title: "References: Getting Help"
+title: "Creating Connections"
 teaching: 10
 exercises: 2
 ---
 
-Configure Rcone
+Creating Rclone Connections
 
-rclone config
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
