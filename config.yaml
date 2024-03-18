@@ -63,10 +63,14 @@ contact: 'datascience@ucla.edu' # FIXME
 
 # Order of episodes in your lesson
 episodes:
-- introduction.Rmd
+- introduction.Rmd  
+- getting-help.Rmd  
+- configure-rclone.Rmd  
+- creating-connections.Rmd  
 
 # Information for Learners
 learners:
+- getting-help.Rmd
 
 # Information for Instructors
 instructors:
