@@ -1,10 +1,11 @@
- 
 
 ---
 title: "Using Rclone"
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
+
+- How do you write a lesson using R Markdown and `{sandpaper}`?
 
 - What is rclone and why do I need to use this?
 - What is 'command line'
@@ -22,14 +23,15 @@ title: "Using Rclone"
 
 Rclone is a command line program to manage files on cloud storage. After download and install, continue here to learn how to use it: Initial configuration, what the basic syntax looks like, describes the various subcommands, the various options, and more.
 
-## Why Do You Want to Use Rclone
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Why Do You Want to Use it
 
 - For large files and/or multiple files rclone is efficient and fast  
 - reason 2 
 - reason 3 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 [r-markdown]: https://rmarkdown.rstudio.com/
