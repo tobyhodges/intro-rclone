@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Introduction to RClone' # FIXME
+title: 'Introduction to Rclone' # FIXME
 
 # Date the lesson was created (2024-02-21, this is empty by default)
 created: ~ # FIXME
