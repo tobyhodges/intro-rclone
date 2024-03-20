@@ -6,7 +6,10 @@ exercises: 2
 
 Configure Rcone
 
-rclone config
+```
+  rclone config
+  
+```
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
